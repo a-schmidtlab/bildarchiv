@@ -1,0 +1,24 @@
+# Lokale Unterlagen (alte Skripte, Pläne, Berichte) – nicht veröffentlichen
+_lokal/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+.pytest_cache/
+
+# Arbeitsdaten und Ergebnisse
+*.db
+*.db-wal
+*.db-shm
+_bildarchiv/
+berichte/
+
+# Editoren / Betriebssystem
+.vscode/
+.idea/
+.DS_Store
+._*
