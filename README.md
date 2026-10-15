@@ -525,3 +525,9 @@ unordentliche Sammlung (RAW/JPEG-Paare mit Sidecars, Web-Fassungen mit Bildunter
 Kopien, falsche Jahresordner, Scans ohne EXIF, Serienbilder derselben Sekunde, Export-Ordner,
 Live-Photos, Müll, nicht beschreibbare Dateien, bereits benannte Dateien). Daran prüfen sie Ordnen,
 einen zweiten Lauf ohne Änderungen, Import und Rückgängig.
+
+## Lizenz
+
+[MIT](LICENSE): frei verwendbar, veränderbar und weitergebbar, auch kommerziell, solange der
+Lizenzhinweis erhalten bleibt. Ohne Gewähr: Vor dem Ausführen auf einer wertvollen Sammlung eine
+Sicherung anlegen.
